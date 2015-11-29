@@ -26,13 +26,13 @@ Download steamcmd and run it. let it update itself.
 Download SourceRcon.py, and store it in steamcmd's folder  
 Download ark.py, and store it in steamcmd's folder  
 
-For now, you'll have to change the hard-coded steamcmd and ARK directories.   
+For now, you'll have to change the hard-coded steamcmd and ARK directories.      
 Eventually I will code the script to search for both installs and save their paths.  
 
-On line 10, Change the ARK Install path to where you have the gameserver installed.
-On line 14, Change the RCON IP, Port, Password to match your configuration.
-On line 32, Change the ARK Install path to where you have the gameserver installed.
-On line 36, Change the Steamcmd Install path to where you have steamcmd installed.
-On line 68, Change the Steamcmd arguments so that ARK is updating to YOUR gameserver install location.
+On line 10, Change the ARK Install path to where you have the gameserver installed.   
+On line 14, Change the RCON IP, Port, Password to match your configuration.   
+On line 32, Change the ARK Install path to where you have the gameserver installed.   
+On line 36, Change the Steamcmd Install path to where you have steamcmd installed.   
+On line 68, Change the Steamcmd arguments so that ARK is updating to YOUR gameserver install location.   
 
 These will eventually be detected by the script. But for now they are hard-coded to mirror my setup.
